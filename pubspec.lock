@@ -99,8 +99,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "v1.0.2"
-      resolved-ref: "6f19a6f8aa787bb4195b4079d542a062c555a0ca"
+      ref: "v1.0.4"
+      resolved-ref: "75619b510b68c7c388872fd801aec70f4ff5f353"
       url: "https://github.com/junior-nakamura-dev/posterr-flutter-commons-design-system.git"
     source: git
     version: "1.0.2"

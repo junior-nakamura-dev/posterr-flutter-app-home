@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:micro_commons_design_system/widgets/card/custom_card_widget.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -13,6 +14,9 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Home'),
+      ),
+      body: SingleChildScrollView(
+        child: Column(mainAxisSize: MainAxisSize.max, children: const []),
       ),
     );
   }

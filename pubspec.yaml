@@ -17,7 +17,7 @@ dependencies:
   micro_commons_design_system:
     git:
       url: https://github.com/junior-nakamura-dev/posterr-flutter-commons-design-system.git
-      ref: v1.0.2
+      ref: v1.0.4
 
   flutter:
     sdk: flutter
