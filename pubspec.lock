@@ -60,6 +60,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  get_it:
+    dependency: transitive
+    description:
+      name: get_it
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "7.2.0"
   golden_toolkit:
     dependency: transitive
     description:
@@ -67,6 +74,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.9.0"
+  injectable:
+    dependency: transitive
+    description:
+      name: injectable
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.1.0"
   lints:
     dependency: transitive
     description:
@@ -108,8 +122,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "v1.0.1"
-      resolved-ref: "72827d20289a829009bb5bbb52a40ebdc23265fb"
+      ref: "v1.0.4"
+      resolved-ref: "8efcb2128b1e037c4e0c0bb9e6146e3d2f33b3b6"
       url: "https://github.com/junior-nakamura-dev/posterr-flutter-micro-core.git"
     source: git
     version: "1.0.1"
